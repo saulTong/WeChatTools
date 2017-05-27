@@ -1,0 +1,10 @@
+Package: com.saul.sendMessage
+Name: saulSendMessage
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: saulTong
+Author: saulTong
+Section: Tweaks
+Version: 0.0.1-184+debug
+Installed-Size: 152

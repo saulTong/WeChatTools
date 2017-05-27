@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/wechat-ext-ios/!svn/ver/2/WeChat/branches/%E6%B5%8B%E8%AF%95/saullogin
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/wechat-ext-ios/!svn/ver/2/WeChat/branches/%E6%B5%8B%E8%AF%95/saullogin/control
+END
+saulLogin.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/wechat-ext-ios/!svn/ver/2/WeChat/branches/%E6%B5%8B%E8%AF%95/saullogin/saulLogin.plist
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/wechat-ext-ios/!svn/ver/2/WeChat/branches/%E6%B5%8B%E8%AF%95/saullogin/Makefile
+END
+Tweak.xm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/wechat-ext-ios/!svn/ver/2/WeChat/branches/%E6%B5%8B%E8%AF%95/saullogin/Tweak.xm
+END

@@ -1,0 +1,10 @@
+Package: com.tencent.xin
+Name: saulLogin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: saul
+Author: saul
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 124

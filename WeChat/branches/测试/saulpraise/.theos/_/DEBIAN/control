@@ -1,0 +1,10 @@
+Package: com.sual.praise
+Name: saulPraise
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: saulTong
+Author: saulTong
+Section: Tweaks
+Version: 0.0.1-20+debug
+Installed-Size: 128

@@ -1,0 +1,10 @@
+Package: com.saul.removeFir
+Name: saulRemoveFri
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: saulTong
+Author: saulTong
+Section: Tweaks
+Version: 0.0.1-9+debug
+Installed-Size: 132

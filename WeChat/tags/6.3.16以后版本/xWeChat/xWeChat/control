@@ -1,0 +1,16 @@
+Package: com.xWeChat
+Name: xWeChat
+Version: 0.0.1
+Description: 
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author:
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 

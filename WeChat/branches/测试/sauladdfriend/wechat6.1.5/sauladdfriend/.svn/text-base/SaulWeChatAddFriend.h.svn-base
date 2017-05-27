@@ -1,0 +1,17 @@
+#import "WeChat/CBaseContactInfoAssist.h"
+#import "WeChat/SayHelloDataLogic.h"
+
+
+@interface SaulWeChatAddFriend : NSObject
+@property (nonatomic, assign) BOOL isAddFriend;
+@property (nonatomic, assign) int totalCount;
+@property (nonatomic, assign) BOOL isAddFriendSent;
+//@property (nonatomic, strong) NSMutableDictionary * dataDic;
+
++(instancetype)sharedInstance;
+-(void) doAddFriendAction:(CBaseContactInfoAssist *)infoAssist;
+-(void) doDelegateFriendAction:(SayHelloDataLogic *)dataLogic andCellNum:(NSInteger)num;
+//- (void)addUserDataWith:(id)userData withNum:(int)num;
+
+
+@end

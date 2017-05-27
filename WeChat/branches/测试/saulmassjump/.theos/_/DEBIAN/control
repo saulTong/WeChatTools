@@ -1,0 +1,10 @@
+Package: com.saul.massJump
+Name: saulMassJump
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: saulTong
+Author: saulTong
+Section: Tweaks
+Version: 0.0.1-6+debug
+Installed-Size: 120

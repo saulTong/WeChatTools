@@ -1,0 +1,10 @@
+Package: com.saul.thumb
+Name: saulThumb
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: saultong
+Author: saultong
+Section: Tweaks
+Version: 0.0.1-71+debug
+Installed-Size: 128
